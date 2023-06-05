@@ -1,5 +1,5 @@
 <h1 align="center">
-   <img src="https://raw.githubusercontent.com/danielwerner-dev/nlw-spacetime/preview/spacetime.png" alt="NLW Spacetime" width="300"/>
+   <img src="[https://raw.githubusercontent.com/danielwerner-dev/nlw-spacetime/preview/spacetime.png](https://raw.githubusercontent.com/danielwerner-dev/nlw-spacetime/main/preview/spacetime.png)" alt="NLW Spacetime" width="300"/>
 </h1>
 <h1 align="center">
    NLW Spacetime - Cápsula do Tempo
