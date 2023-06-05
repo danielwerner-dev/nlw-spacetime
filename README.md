@@ -10,7 +10,7 @@
   <img alt="Made by Henrique Tavares" src="https://img.shields.io/badge/made%20by-Daniel Werner-%20?color=6c4ad0">
   <img alt="Project top programing language" src="https://img.shields.io/github/languages/top/danielwerner-dev/nlw-spacetime?color=6c4ad0">
   <img alt="Repository size" src="https://img.shields.io/github/repo-size/danielwerner-dev/nlw-spacetime?color=6c4ad0">
-  <img alt="GitHub license" src="https://img.shields.io/github/license/danielwerner-dev/nlw-spacetime?color=6c4ad">
+  <img alt="GitHub license" src="https://img.shields.io/github/license/danielwerner-dev/nlw-spacetime?color=6c4ad0">
 </p>
 
 <p align="center">
